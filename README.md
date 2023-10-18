@@ -1,7 +1,6 @@
 # chat
 
-A new Flutter project.
-
+名前の通りのアプリ。FlutterとFirebaseをかけわせたチャットアプリです。練習ようにもってこいのプロジェクトやね。
 ## Getting Started
 
 This project is a starting point for a Flutter application.
